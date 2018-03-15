@@ -1,4 +1,4 @@
-Six Degrees of Kevin Bacon
+# Six Degrees of Kevin Bacon
 
 Craving a little Oscar trivia? Try your hand in an Internet parlor game about Kevin Bacon’s
 acting career. He’s never been nominated for an Oscar, but he’s certainly achieved
@@ -11,9 +11,9 @@ site was built, a book was published and a nationwide cult-fad was born.
 When you think about Hollywood heavyweights, you don’t immediately think of Kevin
 Bacon. But his career spans almost 20 years through films such as Flatliners, The Air Up There,
 Footloose, The River Wild, JFK and Animal House. So brush up on your Bacon lore. To play an
-Internet version, visit http://oracleofbacon.org/.
+Internet version, visit [http://oracleofbacon.org/](http://oracleofbacon.org/).
 
-Overview
+## Overview
 
 There are two major components to this project:
 Here is the implementation for an imdb class, which allows user to
